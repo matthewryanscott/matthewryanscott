@@ -1,10 +1,9 @@
 Welcome!
 
-I created this new GitHub account to consolidate the repos I am actively maintaining and showcasing.
+In addition to the repos here, you can view some of my other public works:
 
-While I work through that process, you can view some of my previous work here:
-
-- [@gldnspud](https://github.com/gldnspud) — personal repos on my old account
+- [@metrasynth](https://github.com/metrasynth) - Python and Typescript tools for manipulating and enjoying files for the SunVox modular synthesizer
 - [@11craft](https://github.com/11craft) — a few small Python libraries, some actively maintained
 - [@schevo](https://github.com/schevo) - Python-oriented database system (retired)
 - [@fanscribed](https://github.com/fanscribed) - podcast transcription app using Django (retired)
+- [@gldnspud](https://github.com/gldnspud) — personal repos on my old account
